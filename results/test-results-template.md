@@ -1,4 +1,5 @@
-# Voice Clone Test Results Template
+# Voice Clone Test Results
+*(Testing is currently blocked by access issues with ElevenLabs)*
 
 ## Test Information
 
